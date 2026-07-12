@@ -1,16 +1,23 @@
-## Hi there 👋
+# Привет! Я Александр 👋
 
-<!--
-**AlexanderKhoroshailo/AlexanderKhoroshailo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-разработчик, специализирующийся на создании современных веб-приложений с использованием экосистемы Vue/Nuxt/Typescript. Активно изучаю и применяю современные технологии для построения надежной архитектуры.
 
-Here are some ideas to get you started:
+## 🛠️ Мой стек технологий
+- **Frontend:** Vue.js, Nuxt.js, TypeScript, JavaScript
+- **Backend (изучение/практика):** PHP, Laravel
+- **Инструменты:** Git, GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Текущие проекты и практика
+- 💼 **[erp-practice-project]** — учебная ERP-система. Мой полигон для изучения **Laravel** на бэкенде, проектирования архитектуры крупных систем и интеграции с фронтендом.
+- 💬 **nuxt-chat** — чат-приложение на Nuxt.js.
+- 🎨 **Coffee-shop-uidesign** — верстка и UI/UX интерфейсы на Vue.
+
+---
+
+### 📫 Как со мной связаться
+- **Telegram:** [@ваш_ник](https://t.me/@AlexFerzzz)
+- **Email:** ваш_email@example.com
+
+## 📊 GitHub Stats
+![Ваша статистика GitHub](https://vercel.app)
+![Используемые языки](https://vercel.app)
