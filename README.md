@@ -6,13 +6,6 @@
 ---
 
 ### 🛠️ Мой стек технологий
-
-![Vue.js](https://shields.io)
-![Nuxt.js](https://shields.io)
-![TypeScript](https://shields.io)
-![Pinia](https://shields.io)
-![Laravel](https://shields.io)
-
 - **Frontend:** Vue 2/3, Nuxt, TypeScript, Pinia, Vuex, Axios, SCSS, BEM
 - **Тестирование / Инструменты:** Playwright, Cypress, Webpack, Docker, Figma
 - **Визуализация / Карты:** D3.js, OpenLayers
@@ -44,5 +37,7 @@
 ---
 
 ## 📊 Моя активность на GitHub
-![Статистика GitHub](https://vercel.app)
-![Используемые языки](https://vercel.app)
+<p align="left">
+  <img src="https://vercel.app" alt="Статистика GitHub" />
+  <img src="https://vercel.app" alt="Используемые языки" />
+</p>
