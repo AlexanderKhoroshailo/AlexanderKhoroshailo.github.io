@@ -10,7 +10,7 @@
 - **Тестирование / Инструменты:** Playwright, Cypress, Webpack, Docker, Figma
 - **Визуализация / Карты:** D3.js, OpenLayers
 - **Протоколы:** REST API, WebSocket
-- **Backend (изучаю):** PHP, Laravel (использую исключительно в пет-проектах для расширения кругозора)
+- **Backend (изучаю):** Python
 
 ---
 
